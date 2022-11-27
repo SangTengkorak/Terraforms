@@ -2,5 +2,5 @@
 .terraform
 .terraform/providers
 providers
-*.pem
+tf_key.pem
 Terraform_GCP/Functions/nodejs-docs-samples/
