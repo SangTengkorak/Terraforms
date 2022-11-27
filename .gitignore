@@ -3,3 +3,4 @@
 .terraform/providers
 providers
 *.pem
+Terraform_GCP/Functions/nodejs-docs-samples/
