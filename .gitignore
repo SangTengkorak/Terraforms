@@ -2,5 +2,5 @@
 .terraform
 .terraform/providers
 providers
-tf_key.pem
+/home/sangtengkorak/Documents/Terraform/Advanced_Terraform-AWS/tf_key.pm
 Terraform_GCP/Functions/nodejs-docs-samples/
