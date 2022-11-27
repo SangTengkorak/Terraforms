@@ -1,0 +1,5 @@
+# Ignores .terraform folder
+.terraform
+.terraform/providers
+providers
+*.pem

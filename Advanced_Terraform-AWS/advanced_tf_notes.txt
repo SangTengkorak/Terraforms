@@ -1,0 +1,3 @@
+instead of t2, use t3 instead
+
+default region is ap-southeast-3 (Jakarta)
